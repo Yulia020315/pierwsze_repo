@@ -16,6 +16,7 @@
 # lista=[1 ,2 ,3 ,4 ,5]
 # wynik=sumowanie(lista)
 # print(wynik)
+repo_editing
 
 
 ## zadan1e
