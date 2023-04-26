@@ -275,3 +275,5 @@ repo_editing
 # wyraz2=["K","o","n","n","t","a","n","f","y","n","o","l","o","l"]
 # porownanie=porownaj_tekst(wyraz1,wyraz2)
 # print(porownanie)
+
+print(siemaneczko)
